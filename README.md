@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shayanmalaki](https://github.com/shayanmalaki)
 
-- Connect with me: [telegram/Shayan_Malaki2008](telegram/Shayan_Malaki2008)
+- Connect with me: [telegram/@Shayan_Malaki2008](telegram/@Shayan_Malaki2008)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
