@@ -20,7 +20,7 @@
 
 ---
 
-> ## Front-end :
-> - [x] Html 
-> - [x] CSS
-> - [ ] JavaScript
+> # Front-end :
+> - [x] ## Html 
+> - [x] ## CSS
+> - [ ] ## JavaScript
