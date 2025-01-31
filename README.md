@@ -18,9 +18,10 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayanmalaki&show_icons=true&locale=en&layout=compact" alt="shayanmalaki" /></p>
 
-
+---
 
 > ## Front-end :
-> - html [ * ]
-> - css [ * ]
-> - js
+> - [x] ![html logo](![icons8-html-48](https://github.com/user-attachments/assets/1824414e-f28b-4d5e-9366-68af864c400a)
+) Html 
+> - [x] ![css logo] CSS
+> - [x] ![javascript logo] JavaScript
