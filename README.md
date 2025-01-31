@@ -23,5 +23,5 @@
 > ## Front-end :
 > - [x] 
 ) Html 
-> - [x] ![css logo] CSS
-> - [x] ![javascript logo] JavaScript
+> - [x] CSS
+> - [] JavaScript
