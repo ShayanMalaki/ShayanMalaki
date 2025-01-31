@@ -1,4 +1,4 @@
-![InShot_20250131_161911890](https://github.com/user-attachments/assets/81852a68-9d9a-4b0e-8d31-886e8c81e887)
+<img src:"![InShot_20250131_161911890](https://github.com/user-attachments/assets/81852a68-9d9a-4b0e-8d31-886e8c81e887)" style= width:100%/>
 
 <h1 align="center">Hi 👋, I'm Shayan</h1>
 <h3 align="center">A passionate front-end developer from IRAN</h3>
