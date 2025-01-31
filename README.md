@@ -21,7 +21,6 @@
 ---
 
 > ## Front-end :
-> - [x] 
-) Html 
+> - [x] Html 
 > - [x] CSS
 > - [ ] JavaScript
