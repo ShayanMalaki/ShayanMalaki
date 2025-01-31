@@ -21,8 +21,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayanmalaki&show_icons=true&locale=en&layout=compact" alt="shayanmalaki" /></p>
 
 
-![image](https://github.com/user-attachments/assets/2b6a95db-e723-454b-a0fe-196d62bdb00c)/>
-
 
 ---
 
