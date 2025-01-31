@@ -1,4 +1,4 @@
-<img src:"![InShot_20250131_161911890](https://github.com/user-attachments/assets/81852a68-9d9a-4b0e-8d31-886e8c81e887)" style= width:100%/>
+![InShot_20250131_161911890](https://github.com/user-attachments/assets/81852a68-9d9a-4b0e-8d31-886e8c81e887)
 
 <h1 align="center">Hi 👋, I'm Shayan</h1>
 <h3 align="center">A passionate front-end developer from IRAN</h3>
@@ -21,7 +21,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shayanmalaki&show_icons=true&locale=en&layout=compact" alt="shayanmalaki" /></p>
 
 
-<img align:right src:![image](https://github.com/user-attachments/assets/2b6a95db-e723-454b-a0fe-196d62bdb00c)/>
+![image](https://github.com/user-attachments/assets/2b6a95db-e723-454b-a0fe-196d62bdb00c)/>
 
 
 ---
