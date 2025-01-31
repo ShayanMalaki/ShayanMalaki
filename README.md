@@ -21,7 +21,7 @@
 ---
 
 > ## Front-end :
-> - [x] ![html logo](![icons8-html-48](https://github.com/user-attachments/assets/1824414e-f28b-4d5e-9366-68af864c400a)
+> - [x] 
 ) Html 
 > - [x] ![css logo] CSS
 > - [x] ![javascript logo] JavaScript
