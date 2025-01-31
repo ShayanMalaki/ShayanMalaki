@@ -1,5 +1,4 @@
-img align:center src:![InShot_20250131_141258346](https://github.com/user-attachments/assets/46360a48-be8c-4f8a-b15f-a0806d79241a)
-
+![InShot_20250131_161911890](https://github.com/user-attachments/assets/81852a68-9d9a-4b0e-8d31-886e8c81e887)
 
 <h1 align="center">Hi 👋, I'm Shayan</h1>
 <h3 align="center">A passionate front-end developer from IRAN</h3>
