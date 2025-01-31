@@ -24,4 +24,4 @@
 > - [x] 
 ) Html 
 > - [x] CSS
-> - [] JavaScript
+> - [ ] JavaScript
