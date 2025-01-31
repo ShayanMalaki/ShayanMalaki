@@ -21,6 +21,6 @@
 ---
 
 > # Front-end :
->  - [x] ![](icons8-html-48) Html 
-> -[x]  CSS
+>  - [x] Html 
+> - [x]  CSS
 > - [ ] JavaScript
