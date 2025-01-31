@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shayanmalaki](https://github.com/shayanmalaki)
 
+- Connect with me: [telegram/shayan_malaki2008](telegram/shayan_malaki2008)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
