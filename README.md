@@ -21,6 +21,6 @@
 ---
 
 > # Front-end :
->  - [x] ![](desktop/README/ShayanMalaki/icons8-html-48) Html 
- - [x]  CSS
+>  - [x] ![](icons8-html-48) Html 
+> -[x]  CSS
 > - [ ] JavaScript
